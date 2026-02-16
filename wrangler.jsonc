@@ -1,0 +1,12 @@
+{
+  "name": "email-cms-worker",
+  "main": "src/index.ts", // Point this to your script
+  "compatibility_date": "2026-02-16",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "YOUR_DB_NAME",
+      "database_id": "YOUR_ID"
+    }
+  ]
+}
