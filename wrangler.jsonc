@@ -5,8 +5,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "YOUR_DB_NAME",
-      "database_id": "YOUR_ID"
+      "database_name": "emailcms",
+      "database_id": "6c0f0dc6-4bd7-4a75-b800-dfd45a3d0b4d"
     }
   ]
 }
