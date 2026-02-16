@@ -1,5 +1,5 @@
 {
-  "name": "email-cms-worker",
+  "name": "email-to-cmsdb",
   "main": "src/index.ts", // Point this to your script
   "compatibility_date": "2026-02-16",
   "d1_databases": [
